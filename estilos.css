@@ -1,0 +1,47 @@
+*{
+    text-decoration: none;
+    background-color:#1c1c1c ;
+}
+
+.all{
+    background-color:#1c1c1c ;
+}
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom:  0px;
+    border-bottom: 0.1px solid#494949;
+
+}
+
+.nav-link{
+    color: #f1385a ;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13PX;
+}
+
+#nav-link1{
+    color:white ;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13PX;
+}
+
+.nav-link:hover{
+    color: #f1385a ;
+}
+
+.container-fluid{
+    height: 95px;
+}
+
+.navbar-brand{
+    align-items: center; 
+    justify-content: center; 
+   
+}
+.banner{
+    margin-top: 70px;
+    margin-left: 130px;
+}
+
+
